@@ -16,18 +16,18 @@ npm install -g nodemon
 
 npm start  -> Irá iniciar com nodemon em localhost:3000 
 
- HTTP VERBS / URLS
+#### HTTP VERBS / URLS
 
-[GET]    localhost:3000/products  	   -> All Products
-[POST]   localhost:3000/products  	   -> All Products
-[PUT]    localhost:3000/products  	   -> All Products
-[GET]    localhost:3000/products/12    -> Product by ID 
-[DELETE] localhost:3000/products/12    -> Product by ID 
+- [GET]    localhost:3000/products  	   -> All Products
+- [POST]   localhost:3000/products  	   -> All Products
+- [PUT]    localhost:3000/products  	   -> All Products
+- [GET]    localhost:3000/products/12    -> Product by ID 
+- [DELETE] localhost:3000/products/12    -> Product by ID 
 
-Products - GET
+- Products GET
   _id   
   name  
   created_at   
 
-Products - POST
+- Products POST
   name 
