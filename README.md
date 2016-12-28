@@ -19,8 +19,8 @@ npm start  -> Irá iniciar com nodemon em localhost:3000
 #### HTTP VERBS / URLS
 
 - [GET]    localhost:3000/products  	   -> All Products
-- [POST]   localhost:3000/products  	   -> All Products
-- [PUT]    localhost:3000/products  	   -> All Products
+- [POST]   localhost:3000/products  	   -> New Product
+- [PUT]    localhost:3000/products  	   -> Update Product
 - [GET]    localhost:3000/products/12    -> Product by ID 
 - [DELETE] localhost:3000/products/12    -> Product by ID 
 
