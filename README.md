@@ -1,7 +1,7 @@
 
 ### Instruções de Instalação
 
-npm install 
+npm install
 
 npm install -g nodemon
 
@@ -14,15 +14,15 @@ npm install -g nodemon
 
 - Para rodar a aplicação:
 
-npm start  -> Irá iniciar com nodemon em localhost:3000 
+npm start  -> Irá iniciar com nodemon em localhost:3000
 
 #### HTTP VERBS / URLS
 
 - [GET]    localhost:3000/products  	   -> All Products
 - [POST]   localhost:3000/products  	   -> New Product
 - [PUT]    localhost:3000/products  	   -> Update Product
-- [GET]    localhost:3000/products/12    -> Product by ID 
-- [DELETE] localhost:3000/products/12    -> Product by ID 
+- [GET]    localhost:3000/products/12    -> Product by ID
+- [DELETE] localhost:3000/products/12    -> Product by ID
 
 - Products GET
   _id   
@@ -30,4 +30,6 @@ npm start  -> Irá iniciar com nodemon em localhost:3000
   created_at   
 
 - Products POST
-  name 
+  name
+
+  #### Teste 
